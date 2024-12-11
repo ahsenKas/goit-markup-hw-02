@@ -92,7 +92,7 @@ nav{
     font-size: 56px; /* Yazı boyutu */
     line-height: 60px; /* Satırlar arasındaki mesafe */
     text-align: center; /* Yazıyı ortalar */
-    color: #FFFFFF; /* Yazının rengi */
+    color:#FFFFFF; /* Yazının rengi */
     letter-spacing: 0.02em; /* Harfler arası boşluk */
     margin: 0; /* Varsayılan dış boşluğu kaldırır */
 }
