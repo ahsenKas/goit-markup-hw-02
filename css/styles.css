@@ -90,8 +90,8 @@ nav {
     width: 1440px;
     height: 600px;
     top: 72px;
-    line-height: 1.07;
     
+
 }
 
 
@@ -118,6 +118,7 @@ nav {
     /* Harfler arası boşluk */
     margin: 0;
     /* Varsayılan dış boşluğu kaldırır */
+    line-height: 1.07;
 }
 
 
